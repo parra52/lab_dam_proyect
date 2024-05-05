@@ -1,0 +1,7 @@
+package testing;
+
+import dao.CalculadoraDao;
+
+public class CalculadoraDaoImpl1 implements CalculadoraDao {
+
+}
